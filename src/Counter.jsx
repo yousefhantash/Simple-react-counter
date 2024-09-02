@@ -20,7 +20,7 @@ function reset(){
 return (
     <>  
         <div className="container">
-            <h1 className="title">React simple counter project</h1>
+            <h1 className="title">Simple react counter project</h1>
             <h1 className="number">{count}</h1>
         </div>
         <section className="btns-container">
