@@ -65,5 +65,5 @@ For support, email y.t.hantash@gmail.com
 
 ## License
 
-[MIT](https://github.com/yousefhantash/Todo-list/blob/main/LICENSE)
+[MIT](https://github.com/yousefhantash/Simple-react-counter/blob/main/LICENSE)
 
